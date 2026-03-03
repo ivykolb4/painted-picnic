@@ -318,18 +318,84 @@
     "Url": "https://www.nga.gov/artworks/12969-wool-tablecloth"
   },
 
-     {
+   {
     "id": 30,
     "label": "frame_1",
     "category": "frames",
     "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/04b4d1b292db02263b10e24af52a0ab8b45ad62c/frame_1.png"
   },
 
-      {
+  {
     "id": 31,
     "label": "frame_2",
     "category": "frames",
     "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/04b4d1b292db02263b10e24af52a0ab8b45ad62c/frame_2.png"
+  },
+
+   {
+    "id": 32,
+    "label": "apples",
+    "category": "food",
+    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/apples.png"
+    "title": "Study of Apples from Nature",
+    "artist": "William Rickarby Miller",
+    "year": "1863",
+    "Url": "https://www.nga.gov/artworks/214130-study-apples-nature"
+  },
+
+  {
+    "id": 33,
+    "label": "lemons",
+    "category": "food",
+    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/lemons.png"
+    "title": "Lemons",
+    "artist": "George Henry Hal",
+    "year": "1884",
+    "Url": "https://www.nga.gov/artworks/214122-lemons"
+  },
+
+   {
+    "id": 34,
+    "label": "orange_and_teacup",
+    "category": "food",
+    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/orange_and_teacup.png"
+    "title": "Still Life",
+    "artist": "Henri Fantin-Latour",
+    "year": "1866",
+    "Url": "https://www.nga.gov/artworks/46621-still-life"
+  },
+
+   {
+    "id": 35,
+    "label": "pears_and_crabapples",
+    "category": "food",
+    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/pears_and_crabapples.png"
+    "title": "Basket of Pears and Crabapples",
+    "artist": "John F. Francis",
+    "year": "n.d.",
+    "Url": "https://www.nga.gov/artworks/214117-basket-pears-and-crabapples"
+  },
+
+   {
+    "id": 36,
+    "label": "glass_3",
+    "category": "tableware",
+    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/glass_3.png"
+    "title": "Glass",
+    "artist": "J. Howard Iams",
+    "year": "c. 1936",
+    "Url": "https://www.nga.gov/artworks/23650-glass"
+  },
+
+   {
+    "id": 37,
+    "label": "handkerchief",
+    "category": "tableware",
+    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/handkerchief.png"
+    "title": "Man's Handkerchief",
+    "artist": "Sylvia Dezon",
+    "year": "c. 1936",
+    "Url": "https://www.nga.gov/artworks/12399-mans-handkerchief"
   }
 
    
