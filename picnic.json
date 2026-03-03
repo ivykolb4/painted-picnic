@@ -336,7 +336,7 @@
     "id": 32,
     "label": "apples",
     "category": "food",
-    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/apples.png"
+    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/apples.png",
     "title": "Study of Apples from Nature",
     "artist": "William Rickarby Miller",
     "year": "1863",
@@ -347,7 +347,7 @@
     "id": 33,
     "label": "lemons",
     "category": "food",
-    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/lemons.png"
+    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/lemons.png",
     "title": "Lemons",
     "artist": "George Henry Hal",
     "year": "1884",
@@ -358,7 +358,7 @@
     "id": 34,
     "label": "orange_and_teacup",
     "category": "food",
-    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/orange_and_teacup.png"
+    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/orange_and_teacup.png",
     "title": "Still Life",
     "artist": "Henri Fantin-Latour",
     "year": "1866",
@@ -369,7 +369,7 @@
     "id": 35,
     "label": "pears_and_crabapples",
     "category": "food",
-    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/pears_and_crabapples.png"
+    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/pears_and_crabapples.png",
     "title": "Basket of Pears and Crabapples",
     "artist": "John F. Francis",
     "year": "n.d.",
@@ -380,7 +380,7 @@
     "id": 36,
     "label": "glass_3",
     "category": "tableware",
-    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/glass_3.png"
+    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/glass_3.png",
     "title": "Glass",
     "artist": "J. Howard Iams",
     "year": "c. 1936",
@@ -391,7 +391,7 @@
     "id": 37,
     "label": "handkerchief",
     "category": "tableware",
-    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/handkerchief.png"
+    "imageUrl": "https://github.com/ivykolb4/painted-picnic/blob/1d4576c054db078cb69277960a4125582876fafb/handkerchief.png",
     "title": "Man's Handkerchief",
     "artist": "Sylvia Dezon",
     "year": "c. 1936",
